@@ -1,4 +1,4 @@
-### Hi There 👋 My name is @Charu Thomas
+### Hi 👋 My name is @Charu Thomas
 
 - 🔭 I’m currently working on @Ox (getox.com)/ human centered automation
 - 🌱 I’m currently learning Node.js, React & Express
