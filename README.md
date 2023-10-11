@@ -1,6 +1,6 @@
 ### Hi 👋 My name is @Charu Thomas
 
-- 🔭 I’m currently working on @Ox (getox.com)/ human centered automation
+- 🔭 I’m currently building @Ox (getox.com)/ human centered automation
 - 🌱 I’m currently learning Node.js, React & Express
 - 💬 Ask me about Meditation, Math, Metaphysics 
 - 📫 How to reach me: charu@getox.com
