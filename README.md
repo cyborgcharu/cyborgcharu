@@ -1,8 +1,8 @@
 ### Hi 👋 My name is @Charu Thomas
 
-- 🔭 I’m currently building @Ox (getox.com)/ human centered automation
-- 👯 I’m looking to collaborate on Attention Mechanisms in AI
-- 💬 Ask me about Meditation, Math, Metaphysics 
+- 🔭 I’m currently building Metacognition (metacognition.institute)/ dedicated to `the pursuit of knowledge`
+- 👯 I’m looking to collaborate on Political Action Committees, Mixed Media && Device Meshes
+- 💬 Ask me about: founding Ox (getox.com) - Human Centered Automation, powering $8B in revenue && $16M+ raised in VC
 - 📫 How to reach me: charu@getox.com
 - 😄 Pronouns: she/her
 
