@@ -3,7 +3,6 @@
 - 🔭 I’m currently building Metacognition (metacognition.institute)/ dedicated to `the pursuit of knowledge`
 - 👯 I’m looking to collaborate on Device Meshes
 - 💬 Ask me about: founding Ox (getox.com) - Human Centered Automation, powering $8B in revenue && $16M+ raised in VC
-- 📫 How to reach me: charu@getox.com
 - 😄 Pronouns: she/her
 
 
