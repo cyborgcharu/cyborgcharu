@@ -1,15 +1,15 @@
-### Hi 👋 My name is @Charu Thomas
+### Hi 👋 My name is @Charu
 
-- 🔭 I’m currently building Metacognition (metacognition.institute)/ dedicated to `the pursuit of knowledge`
-- 👯 I’m looking to collaborate on research across: computational theory, operations research, reinforcement learning
-- 💬 Ask me about: founding Ox (getox.com) - Human Centered Automation, powering $8B in revenue && $16M+ raised in VC
+- 🌱 Currently vibing out +building fun stuff!
 - 😄 Pronouns: she/her
-
 
 <!--
 **cyborgcharu/cyborgcharu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- 🔭 I’m currently building Metacognition (metacognition.institute)/ dedicated to `the pursuit of knowledge`
+- 👯 I’m looking to collaborate on research across: computational theory, operations research, reinforcement learning
+- 💬 Ask me about: founding Ox (getox.com) - Human Centered Automation, powering $8B in revenue && $16M+ raised in VC
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
